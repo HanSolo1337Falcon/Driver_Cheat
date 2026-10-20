@@ -1,0 +1,11 @@
+﻿{
+  "file_format_version": "1.0.0",
+  "api_layer": {
+    "name": "XR_APILAYER_LIV_liv_xr",
+    "library_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SteamVR\\drivers\\liv\\bin\\win64\\driver_liv.dll",
+    "api_version": "1.0",
+    "implementation_version": "1",
+    "description": "LIV XR Capture & Passthrough API Layer",
+    "disable_environment": "DISABLE_LIV_XR_LAYER"
+  }
+}
